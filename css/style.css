@@ -1,0 +1,28 @@
+form {
+    width: 200px;
+    display: flex;
+    flex-direction: column;
+    background-color: aquamarine;
+}
+h2 {
+    color: red;
+    margin-left: 40px;
+}
+label {
+    color: blue;
+}
+input {
+    background: black;
+    color: antiquewhite;
+    border-radius: 15px;
+}
+button {
+    width: 70px;
+    border-radius: 15px;
+    margin-left: 55px;
+    background-color: black;
+    color: antiquewhite;
+}
+form p {
+    color: tomato;
+}
